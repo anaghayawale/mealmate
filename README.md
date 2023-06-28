@@ -2,7 +2,7 @@
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Flutter-1389FD.svg)](http://flutter.dev)
 
-A meals app written in dart with Flutter framework. It has lot of recipes to choose from.
+It is a recipe discovery and cooking companion app written in dart with Flutter framework.
 
 ## Screenshots
 
