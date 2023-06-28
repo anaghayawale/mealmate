@@ -1,4 +1,4 @@
-# Meals
+# MealMate
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Flutter-1389FD.svg)](http://flutter.dev)
 
