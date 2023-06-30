@@ -34,14 +34,16 @@ class MealItem extends StatelessWidget {
         child: Stack(
           children: [
             //to load the image in fade in animation type of way
-            FadeInImage(
+            Hero(
+              tag: meal.id
+              child: FadeInImage(
               placeholder: MemoryImage(
                   kTransparentImage), // used from the transparent_image package
               image: NetworkImage(meal.imageUrl),
               fit: BoxFit.cover, // to fit the image in the box
               height: 200,
               width: double.infinity,
-            ),
+            )),
             Positioned(
                 bottom: 0,
                 left: 0,
