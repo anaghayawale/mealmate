@@ -2,7 +2,17 @@
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Flutter-1389FD.svg)](http://flutter.dev)
 
-It is a recipe discovery and cooking companion app written in dart with Flutter framework.
+Are you looking for a convenient and delightful way to explore a diverse range of mouthwatering recipes? Look no further than MealMate, the ultimate meals app that brings you an extensive collection of delectable recipes to suit every taste and dietary preference. Whether you're a seasoned chef or a cooking enthusiast, MealMate is here to inspire your culinary adventures and help you create memorable dishes right in the comfort of your kitchen.
+
+Key Features:
+
+1. A World of Recipes at Your Fingertips
+2. Time-Efficient Cooking
+3. Affordable Ingredients
+4. Simple or Hard? You Decide
+5. Explore Categories
+6. Catering to Dietary Needs
+7. Create Your Favorites List
 
 ## Screenshots
 
